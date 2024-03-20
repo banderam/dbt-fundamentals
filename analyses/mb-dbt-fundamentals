@@ -1,0 +1,2 @@
+
+select * from `mb-dbt-fundamentals.jaffle_shop.customers`
