@@ -8,3 +8,4 @@ select
     created as created_at
 
 from {{ source('stripe', 'payments') }}
+-- order by order_id
